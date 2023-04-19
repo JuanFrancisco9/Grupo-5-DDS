@@ -1,0 +1,6 @@
+[submodule "carritoDeCompras"]
+	path = carritoDeCompras
+	url = git@github.com:TfernandezFrancou/carritoDeCompras.git
+[submodule "biblioteca"]
+	path = biblioteca
+	url = git@github.com:TfernandezFrancou/biblioteca.git
