@@ -1,8 +1,8 @@
-[submodule "carritoDeCompras"]
-	path = carritoDeCompras
-	url = git@github.com:TfernandezFrancou/carritoDeCompras.git
-	branch = main
 [submodule "biblioteca"]
 	path = biblioteca
 	url = git@github.com:TfernandezFrancou/biblioteca.git
+	branch = main
+[submodule "carritoDeCompras"]
+	path = carritoDeCompras
+	url = git@github.com:TfernandezFrancou/carritoDeCompras.git
 	branch = main
