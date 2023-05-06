@@ -6,3 +6,6 @@
 	path = carritoDeCompras
 	url = git@github.com:TfernandezFrancou/carritoDeCompras.git
 	branch = main
+[submodule "pantallaRegistro"]
+	path = pantallaRegistro
+	url = https://github.com/ignabisio99/pantallaRegistro.git
