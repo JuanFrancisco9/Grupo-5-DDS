@@ -9,3 +9,6 @@
 [submodule "pantallaRegistro"]
 	path = pantallaRegistro
 	url = https://github.com/ignabisio99/pantallaRegistro.git
+[submodule "autodromo"]
+	path = autodromo
+	url = https://github.com/ignabisio99/autodromo.git
